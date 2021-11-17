@@ -72,3 +72,5 @@ PuzzleGame_KZ/PuzzleGame_KZ/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 PuzzleGame_KZ/PuzzleGame_KZ/DerivedDataCache/*
+private_key_0987.ppk
+public_key_0987
